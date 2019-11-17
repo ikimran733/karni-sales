@@ -17,7 +17,7 @@ padding: 0px;
 
 ul li {
 background-color: black;
-width: 180px;
+width: 100px;
 height: 30px;
 float: left;
 border: 1px solid white;
@@ -92,7 +92,7 @@ display:block;
 }
 
 ul ul ul {
-margin-left:180px;
+margin-left:100px;
 top:0px;
 position:absolute;
 }
